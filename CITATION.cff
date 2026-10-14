@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this code or its results, please cite the thesis."
+title: "Dependence Modelling in Multi-Asset Derivatives Pricing: An Empirical Analysis of Linear Correlation versus Copula-Based Approaches for Equity-FX Basket Option Pricing"
+type: software
+authors:
+  - family-names: Tanushi
+    given-names: Mariglen
+    affiliation: "Università Cattolica del Sacro Cuore"
+repository-code: "https://github.com/mariglen-tanushi/equity-fx_derivatives-pricing"
+license: MIT
+year: 2026
