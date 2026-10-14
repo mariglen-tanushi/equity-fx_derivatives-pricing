@@ -1,0 +1,17 @@
+copula,scheme,q,tau_emp,tau_theory,upper_emp,upper_theory,lower_emp,lower_theory,ks_uniform_p
+gaussian,driving-uniform reflection,0.95,0.1338,0.1408,0.1123,0.1116,0.1123,0.1116,0.6692
+gaussian,driving-uniform reflection,0.99,0.1338,0.1408,0.0352,0.0375,0.0352,0.0375,0.6692
+gaussian,"output reflection (1-u,1-v)",0.95,0.1338,0.1408,0.1123,0.1116,0.1123,0.1116,0.6692
+gaussian,"output reflection (1-u,1-v)",0.99,0.1338,0.1408,0.0352,0.0375,0.0352,0.0375,0.6692
+frank,driving-uniform reflection,0.95,0.1471,0.1466,0.0841,0.0853,0.0841,0.0853,0.2425
+frank,driving-uniform reflection,0.99,0.1471,0.1466,0.0168,0.0179,0.0168,0.0179,0.2425
+frank,"output reflection (1-u,1-v)",0.95,0.1471,0.1466,0.0841,0.0853,0.0841,0.0853,0.2425
+frank,"output reflection (1-u,1-v)",0.99,0.1471,0.1466,0.0168,0.0179,0.0168,0.0179,0.2425
+clayton,driving-uniform reflection,0.95,0.1087,0.108,0.0598,0.0614,0.1763,0.1794,0.3097
+clayton,driving-uniform reflection,0.99,0.1087,0.108,0.0128,0.0124,0.1182,0.1197,0.3097
+clayton,"output reflection (1-u,1-v)",0.95,0.1087,0.108,0.1171,0.0614,0.1171,0.1794,0.3097
+clayton,"output reflection (1-u,1-v)",0.99,0.1087,0.108,0.0698,0.0124,0.0698,0.1197,0.3097
+gumbel,driving-uniform reflection,0.95,0.1513,0.1519,0.2419,0.236,0.0914,0.091,0.4742
+gumbel,driving-uniform reflection,0.99,0.1513,0.1519,0.2146,0.2071,0.0234,0.0251,0.4742
+gumbel,"output reflection (1-u,1-v)",0.95,0.1513,0.1519,0.1663,0.236,0.1663,0.091,0.4742
+gumbel,"output reflection (1-u,1-v)",0.99,0.1513,0.1519,0.1214,0.2071,0.1214,0.0251,0.4742
